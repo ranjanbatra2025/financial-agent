@@ -1,5 +1,9 @@
 
 .env
+temp_auto_push.bat
 .venv/
 __pycache__/
 
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
